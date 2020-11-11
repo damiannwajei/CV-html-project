@@ -1,0 +1,53 @@
+
+body{
+  background-color: #242c44;
+}
+
+#contact{
+  color: white;
+  text-align: center;
+}
+
+#detail{
+  color: white;
+}
+
+#type{
+  color: white;
+  text-align: center;
+}
+
+#client{
+  color: white;
+  text-align: center;
+}
+
+#email{
+  color:white;
+}
+
+#numba{
+  color: white;
+}
+
+#textarea{
+  text-align: center;
+}
+
+a{
+  display: block;
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: white;
+  background: black;
+  border-radius: 5rem;
+  padding: 0.5rem 1rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  width: max-content;
+}
+
+a:hover{
+  color: black;
+  background: white;
+}
